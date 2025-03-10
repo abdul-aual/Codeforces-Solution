@@ -8,8 +8,6 @@ int main() {
     string s;int n;
     cin>>n;
     cin >> s;
-
-    // Convert all characters to lowercase
     for (int i = 0; i < n; i++) {
         if (isupper(s[i])) {
             s[i] = tolower(s[i]);
@@ -38,3 +36,4 @@ int main() {
 
     return 0;
 }
+
