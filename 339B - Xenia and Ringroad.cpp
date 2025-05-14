@@ -25,4 +25,3 @@ int main() {
     }
     cout<<totalT<<endl;
 }
-
