@@ -117,7 +117,3 @@ When sharing alternative solutions, please explain the reasoning and relevant co
 - Platform: [Codeforces](https://codeforces.com/)
 
 ---
-
-⭐ If you find this repository useful for learning C++ or competitive programming, consider giving it a star.
-
-*This repository reflects my ongoing practice and learning in competitive programming. More solutions may be added over time.*
